@@ -1,0 +1,3 @@
+[submodule "EmulatorJS-Netplay"]
+	path = EmulatorJS-Netplay
+	url = https://github.com/EmulatorJS/EmulatorJS-Netplay.git
